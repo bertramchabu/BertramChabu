@@ -146,8 +146,7 @@ I have no enemies—just rivals who inspire me to keep improving. 💪
 
 ![Bertram's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BertramChabu&show_icons=true&theme=radical)
 
-
-![Top Languages]([https://github-readme-stats.vercel.app/api/top-langs/?username=BertramChabu&layout=compact&theme=radical](https://github-readme-stats.vercel.app/api/top-langs/?username=BertramChabu&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BertramChabu&layout=compact&theme=radical)
 
 ---
 
